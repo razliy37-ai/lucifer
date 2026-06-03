@@ -1,0 +1,6 @@
+{
+  "name": "FinTrack",
+  "description": "SaaS Financial Management & Automated Reporting Platform for SMEs",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
